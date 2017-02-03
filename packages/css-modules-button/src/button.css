@@ -1,0 +1,33 @@
+.button {
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+.button-normal {
+    background-color: #52B6CA;
+}
+
+.button-disabled {
+    background-color: #aaa;
+}
+
+.button-warning {
+    background-color: #f00;
+}
+
+.button-small {
+    font-size: 10px;
+    padding: 4px 8px;
+}
+
+.button-medium {
+    font-size: 20px;
+    padding: 8px 16px;
+}
+
+.button-large {
+    font-size: 30px;
+    padding: 12px 24px;
+}
